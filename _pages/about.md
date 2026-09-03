@@ -1,11 +1,19 @@
-# Akash Pal
+---
+permalink: /
+title: "About me"
+excerpt: "About me"
+author_profile: true
+redirect_from:
+  - /about/
+  - /about.html
+---
 
-**PhD Candidate in Economics**
-Department of Humanities and Social Sciences
-Indian Institute of Technology Roorkee
+I am a PhD candidate in the Department of Humanities and Social Sciences at the Indian Institute of Technology, Roorkee, working in the areas of Health Economics, Economics of Households, and Microeconometrics.
 
-I am a PhD Candidate in Economics at the Indian Institute of Technology Roorkee. My research interests lie at the intersection of **health economics, household economics, and applied microeconomics**, with a focus on healthcare financing, health expenditure, health-seeking behaviour, and occupational health.
+My current research focuses on silicosis awareness and policy discourse in the Indian Parliament, using text data analysis and structural topic modeling. I have presented this work at IIM Ahmedabad, IGIDR Mumbai, MIDS Chennai, VVGNLI Noida, and SANEM (Dhaka), among others.
 
-My current research examines the **economic and policy dimensions of occupational health, particularly silicosis in India**, alongside broader questions of healthcare financing and financial protection.
+I have also worked on health-seeking behavior during high health-risk periods, published in *Informatics for Health and Social Care*, and on distributive equity in health insurance access in India.
 
-[View my CV](../files/AkashPal_CV.pdf) · [Publications](../publications/) · [Research](../research/)
+Before joining the PhD program, I worked as a Research Assistant at the Institute for Studies in Industrial Development (ISID), Delhi, and interned at ZIGRAM Data Technologies and the Research and Information System (RIS) for Developing Countries, Delhi.
+
+I completed my MSc in Economics from IIT Roorkee (2019) and BSc in Mathematics from Dr. Bhimrao Ambedkar University, Agra (2016).
