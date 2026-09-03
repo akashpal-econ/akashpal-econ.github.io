@@ -23,7 +23,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "akashpal.png"
+  avatar           : "akashpal.jpeg"
   name             : "Akash Pal"
   pronouns         : # example: "she/her"  
   bio              : "Akash is a Ph.D. Scholar in Economics from the Indian Institute of Technology Roorkee, India. His research interests include development economics, focusing on health, labor, and industrial development issues. He holds a master's degree in Economics from IIT Roorkee. His Ph.D. thesis focuses on understanding consumer behavior in the presence of health risks."
