@@ -1,5 +1,5 @@
 ---
-title: "Teaching Assistant — Health Economics"
+title: "Health Economics"
 collection: teaching
 type: "Teaching Assistant"
 permalink: /teaching/health-economics-nptel
