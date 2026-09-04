@@ -33,7 +33,7 @@ author:
   email            : "akashpal.xy@gmail.com" 
 
   # Academic websites
-  academia         : "https://ahead.iitr.ac.in/team/akashPal.html"
+  academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : "https://scholar.google.com/citations?user=ca9K-aQAAAAJ&hl=en"
   inspire-hep      : # URL
