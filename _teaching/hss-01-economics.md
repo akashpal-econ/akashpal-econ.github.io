@@ -4,7 +4,7 @@ collection: teaching
 type: "Teaching Assistant"
 permalink: /teaching/hss-01-economics
 venue: "Indian Institute of Technology Roorkee"
-date: 2022-01-01
+date: 2023-01-01
 location: "Roorkee, India"
 ---
 
