@@ -1,5 +1,5 @@
 ---
-title: "Teaching Assistant — HSS-01 Economics"
+title: "Economics [HSS 01]"
 collection: teaching
 type: "Teaching Assistant"
 permalink: /teaching/hss-01-economics
@@ -10,4 +10,6 @@ location: "Roorkee, India"
 
 Teaching Assistant for **HSS-01: Economics** at the Indian Institute of Technology Roorkee.
 
-**Teaching periods:** Spring 2022–23; Autumn 2023–24.
+**Teaching periods:** 
+Spring 2022–23; 
+Autumn 2023–24
