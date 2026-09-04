@@ -29,7 +29,7 @@ author:
   bio              : "PhD Candidate (Economics)"
   location         : "Roorkee, India"
   employer         : "Indian Institute of Technology Roorkee"
-  uri              : "akashpal.com"# URL
+  uri              : # URL
   email            : "akashpal.xy@gmail.com" 
 
   # Academic websites
@@ -41,7 +41,7 @@ author:
   orcid            : "https://orcid.org/0000-0002-4539-7238"
   semantic         : # URL
   ssrn             : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : # URL
   researchgate     : "https://www.researchgate.net/profile/Akash-Pal-2?ev=hdr_xprf"
   scopus           : # URL
   zotero           : # URL
@@ -57,7 +57,7 @@ author:
 
   # Social media
   artstation       : # Username
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
