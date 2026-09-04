@@ -1,7 +1,7 @@
 ---
 title: "Factor endowments and the structure of Indian manufacturing: An analysis of organised and unorganised sectors"
 collection: publications
-permalink: /publication/ISID
+permalink: /publication/2022-01-01-factor-endowments-indian-manufacturing-2
 excerpt: 'Co-authored with Anjali Tandon and Saloni Khurana.'
 date: 2022-01-01
 venue: 'Indian Economic Journal, Special Issue, Volume 1'
