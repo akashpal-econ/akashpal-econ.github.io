@@ -1,5 +1,5 @@
 ---
-title: "Teaching Assistant — Research Methodology"
+title: "Introduction to Research Methodology [HSN602]"
 collection: teaching
 type: "Teaching Assistant"
 permalink: /teaching/research-methodology
@@ -9,5 +9,6 @@ location: "Roorkee, India"
 ---
 
 Teaching Assistant for the **Research Methodology** course at the Indian Institute of Technology Roorkee.
+Worked with Professor Pratap C. Mohanty. 
 
 **Teaching period:** Autumn 2025–26.
