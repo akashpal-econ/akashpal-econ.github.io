@@ -54,3 +54,15 @@
   border: 3px solid #fff;
   box-shadow: 0 0 0 1px rgba(0, 0, 0, 0.1);
 }
+@import url('https://fonts.googleapis.com/css2?family=Caveat:wght@400;500;600&display=swap');
+
+.about-me-text {
+  font-family: 'Caveat', cursive;
+  font-size: 1.35rem;
+  line-height: 1.7;
+  font-weight: 500;
+}
+
+.about-me-text p {
+  margin-bottom: 1.2em;
+}
