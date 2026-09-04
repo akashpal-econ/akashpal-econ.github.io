@@ -1,26 +1,20 @@
 ---
 ---
-
 /*
  * This file controls what is imported from /_sass
  *
  * Note that the files are processed in the order they are imported, so they are partly
    sorted by the dependencies. Also, the first two lines of the file are required by Jekyll.
  */
-
 @import
     "vendor/breakpoint/breakpoint",
-
     "themes",
     "theme/{{ site.site_theme | default: 'default' | append: '_light' }}",
     "theme/{{ site.site_theme | default: 'default' | append: '_dark' }}",
-
     "include/mixins",
     "vendor/susy/susy",
-
     "layout/reset",
     "layout/base",
-
     "include/utilities",
     "layout/tables",
     "layout/buttons",
@@ -29,11 +23,28 @@
     "layout/navigation",
     "layout/footer",
     "syntax",
-
     "layout/forms",
-
     "layout/page",
     "layout/archive",
     "layout/sidebar",
     "layout/json_cv"
 ;
+
+/* ---- Custom overrides ---- */
+
+/* Narrow the footer bar to match content width */
+.page__footer {
+  footer {
+    max-width: 64em;
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 1em;
+    padding-right: 1em;
+  }
+}
+
+/* Justify About Me / page body text */
+.page__content p {
+  text-align: justify;
+  text-justify: inter-word;
+}
