@@ -1,7 +1,7 @@
 ---
 title: "Health seeking behavior during high health-risk period: a bibliometric analysis"
 collection: publications
-permalink: /publication/HSB
+permalink: /publication/2024-01-01-health-seeking-behavior-bibliometric-analysis-1
 excerpt: 'A bibliometric analysis of health-seeking behavior during high health-risk periods, co-authored with Taneja, P., Yadav, M. K., and Mohanty, P. C.'
 date: 2024-01-01
 venue: 'Informatics for Health and Social Care, 49(3–4), 227–245'
