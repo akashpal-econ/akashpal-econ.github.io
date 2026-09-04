@@ -1,20 +1,11 @@
 ---
-title: "Teaching experience 1"
+title: "Health Economics"
 collection: teaching
-type: "Undergraduate course"
+type: "Post Graduate/PhD Coursework"
 permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+venue: "Indian Institute of Technology Roorkee/NPTEL"
+date: Spring 2023-Ongoing
+location: "Indian Institute of Technology Roorkee"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+Assisted in the delivery of the course through tutorials, academic discussions, student support, assignment-related activities, and assessment.
