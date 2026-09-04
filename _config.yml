@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-site_theme               : "dirt" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
+site_theme               : "mint" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
 title                    : "Akash Pal"
 title_separator          : "-"
 name                     : &name "Akash Pal"
@@ -33,7 +33,7 @@ author:
   email            : "akashpal.xy@gmail.com" 
 
   # Academic websites
-  academia         : # URL
+  academia         : "https://ahead.iitr.ac.in/team/akashPal.html"
   arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : "https://scholar.google.com/citations?user=ca9K-aQAAAAJ&hl=en"
   inspire-hep      : # URL
