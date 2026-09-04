@@ -1,11 +1,20 @@
 ---
-title: "Health Economics"
+title: "Teaching Assistant — Health Economics"
 collection: teaching
-type: "Post Graduate/PhD Coursework"
-permalink: /teaching/2014-spring-teaching-1
-venue: "Indian Institute of Technology Roorkee/NPTEL"
-date: Spring 2023-Ongoing
-location: "Indian Institute of Technology Roorkee"
+type: "Teaching Assistant"
+permalink: /teaching/health-economics-nptel
+venue: "NPTEL"
+date: 2023-01-01
+location: "Online"
 ---
 
-Assisted in the delivery of the course through tutorials, academic discussions, student support, assignment-related activities, and assessment.
+Teaching Assistant for the **Health Economics** NPTEL Massive Open Online Course (MOOC).
+
+**Teaching periods:** 
+Spring 2023–24
+Spring 2024-25
+Spring 2025-26
+
+**Course:** [Health Economics — NPTEL](https://www.youtube.com/watch?v=nwX0omzMQSE&list=PLLy_2iUCG87DJ2UAy3j3d50ThmDnTSTtG)
+
+
