@@ -15,3 +15,4 @@ redirect_from:
 <p>My current research focuses on silicosis awareness and policy discourse in the Indian Parliament, using text data analysis and structural topic modeling. I have presented this work at IIM Ahmedabad, IGIDR Mumbai, MIDS Chennai, VVGNLI Noida, and SANEM (Dhaka), among others. I have also worked on health-seeking behavior during high health-risk periods, published in <em>Informatics for Health and Social Care</em>, and on distributive equity in health insurance access in India.</p>
 
 </div>
+[**Curriculum Vitae (CV)**](/files/AkashPal_CV.pdf)
