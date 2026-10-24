@@ -1,17 +1,38 @@
 ---
-
+layout: home
 permalink: /
 title: "About me"
-excerpt: "About me"
-author_profile: true
+excerpt: "PhD candidate in Economics at IIT Roorkee, working on health economics, household economics and microeconometrics."
+tagline: "How health shapes the decisions households make."
+lede: "PhD candidate in Economics at IIT Roorkee, working on health economics, the economics of households, and microeconometrics."
 redirect_from:
   - /about/
   - /about.html
 ---
 
-<div class="about-me-text">
+<section id="about">
+  <h2>About</h2>
+  <div class="cards">
+    <div class="card"><h3>Research focus</h3><p>My current work studies health state dependence in decision making, especially in the context of occupational health risks.</p></div>
+    <div class="card"><h3>Background</h3><p>Research Assistant at ISID, Delhi, with internships at ZIGRAM Data Technologies and RIS, Delhi. MSc in Economics from IIT Roorkee; BSc in Mathematics from Dr. Bhimrao Ambedkar University, Agra.</p></div>
+    <div class="card"><h3>Methods</h3><p>Microeconometrics and text-as-data approaches, such as structural topic modeling of parliamentary records.</p></div>
+  </div>
 
-<p>I am a PhD candidate in the Department of Humanities and Social Sciences at the Indian Institute of Technology, Roorkee, working in the areas of Health Economics, Economics of Households, and Microeconometrics. Before joining the PhD program, I worked as a Research Assistant at the Institute for Studies in Industrial Development (ISID), Delhi, and interned at ZIGRAM Data Technologies and the Research and Information System (RIS) for Developing Countries, Delhi. I completed my MSc in Economics from IIT Roorkee and BSc in Mathematics from Dr. Bhimrao Ambedkar University, Agra.</p>
-<p>My current research focuses on health state dependence in decision making, especially vis-à-vis occupational health risks. I have presented my research work at Indiana University (ISSI'22), IIM Ahmedabad (IMRC'25), IGIDR Mumbai (CoRE'25), MIDS Chennai (DC'25), VVGNLI Noida, NIT Goa (TAES'25) and SANEM (Dhaka) (SAEC'25 &'23), among others. My work has been accepted for presentation at the University of Vienna (COMPTEXT 2025), the University of Iceland (NHESG'26) & University of Tasmania (AHES'26). </p>
-</div>
-[**Curriculum Vitae (CV)**](/files/AkashPal_CV.pdf)
+  <p class="sub">Presented at</p>
+  <ul class="chips">
+    <li>Indiana University (ISSI’22)</li>
+    <li>IIM Ahmedabad (IMRC’25)</li>
+    <li>IGIDR Mumbai (CoRE’25)</li>
+    <li>MIDS Chennai (DC’25)</li>
+    <li>NIT Goa (TAES’25)</li>
+    <li>VVGNLI Noida</li>
+    <li>SANEM Dhaka (SAEC’23, ’25)</li>
+  </ul>
+
+  <p class="sub">Accepted for presentation</p>
+  <ul class="chips">
+    <li class="up">University of Vienna (COMPTEXT 2025)</li>
+    <li class="up">University of Iceland (NHESG’26)</li>
+    <li class="up">University of Tasmania (AHES’26)</li>
+  </ul>
+</section>
