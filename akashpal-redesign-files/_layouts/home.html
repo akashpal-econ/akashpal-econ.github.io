@@ -1,0 +1,42 @@
+---
+layout: default
+---
+{% include base_path %}
+{% assign a = site.author %}
+
+<div id="main" role="main">
+  <div class="home">
+
+    <div class="hero">
+      <svg class="hero__fit" viewBox="0 0 400 260" fill="none" aria-hidden="true">
+        <g fill="currentColor"><circle cx="30" cy="210" r="5"/><circle cx="70" cy="170" r="5"/><circle cx="105" cy="190" r="5"/><circle cx="150" cy="140" r="5"/><circle cx="190" cy="150" r="5"/><circle cx="230" cy="105" r="5"/><circle cx="275" cy="120" r="5"/><circle cx="320" cy="70" r="5"/><circle cx="365" cy="55" r="5"/></g>
+        <path d="M15 215 L385 45" stroke="currentColor" stroke-width="3" stroke-linecap="round"/>
+      </svg>
+
+      <div class="hero__text">
+        <h1>{{ a.name }}</h1>
+        {% if page.tagline %}<p class="hero__tag">{{ page.tagline }}</p>{% endif %}
+        {% if page.lede %}<p class="hero__lede">{{ page.lede }}</p>{% endif %}
+        <div class="hero__btns">
+          <a class="hero__btn hero__btn--primary" href="{{ base_path }}/files/AkashPal_CV.pdf">Download CV</a>
+          {% if a.googlescholar %}<a class="hero__btn" href="{{ a.googlescholar }}">Google Scholar</a>{% endif %}
+        </div>
+      </div>
+
+      <img class="hero__photo" src="{{ a.avatar | prepend: '/images/' | prepend: base_path }}" alt="{{ a.name }}" fetchpriority="high">
+    </div>
+
+    <ul class="facts">
+      {% if a.location %}<li>{{ a.location }}</li>{% endif %}
+      {% if a.employer %}<li>{{ a.employer }}</li>{% endif %}
+      {% if a.email %}<li><a href="mailto:{{ a.email }}">Email</a></li>{% endif %}
+      {% if a.orcid %}<li><a href="{{ a.orcid }}">ORCID</a></li>{% endif %}
+      {% if a.researchgate %}<li><a href="{{ a.researchgate }}">ResearchGate</a></li>{% endif %}
+      {% if a.linkedin %}<li><a href="https://www.linkedin.com/in/{{ a.linkedin }}">LinkedIn</a></li>{% endif %}
+      {% if a.twitter %}<li><a href="https://twitter.com/{{ a.twitter }}">X</a></li>{% endif %}
+    </ul>
+
+    {{ content }}
+
+  </div>
+</div>
