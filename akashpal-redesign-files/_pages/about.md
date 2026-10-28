@@ -4,7 +4,7 @@ permalink: /
 title: "About me"
 excerpt: "PhD candidate in Economics at IIT Roorkee, working on health economics, household economics and microeconometrics."
 tagline: "Who Bears the Cost of Economic Growth?"
-lede: "PhD candidate in Economics at IIT Roorkee, working on health economics, the economics of households, and microeconometrics."
+lede: "Doctoral candidate in Economics at AHEAD Lab, IIT Roorkee"
 redirect_from:
   - /about/
   - /about.html
