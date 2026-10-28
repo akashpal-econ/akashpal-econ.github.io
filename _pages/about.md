@@ -3,8 +3,8 @@ layout: home
 permalink: /
 title: "About me"
 excerpt: "PhD candidate in Economics at IIT Roorkee, working on health economics, household economics and microeconometrics."
-tagline: "How health shapes the decisions households make."
-lede: "PhD candidate in Economics at AHEAD Lab, IIT Roorkee"
+tagline: "Who Bears the Cost of Economic Growth?"
+lede: "Doctoral candidate in Economics at AHEAD Lab, IIT Roorkee"
 redirect_from:
   - /about/
   - /about.html
