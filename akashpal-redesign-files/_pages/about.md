@@ -42,11 +42,13 @@ redirect_from:
     <span style="color:#1a5fb4;">●</span> Presented &nbsp;
     <span style="color:#e66100;">●</span> Accepted for presentation
   </p>
-  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.css">
   <div id="conf-map" style="height:480px; width:100%; border-radius:8px; position:relative; z-index:0;"></div>
-  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.js"></script>
   <script>
-  (function () {
+  window.addEventListener('load', function () {
+    var el = document.getElementById('conf-map');
+    if (typeof L === 'undefined') { el.innerHTML = '<p style="padding:1em">Map could not be loaded.</p>'; return; }
     const map = L.map('conf-map').setView([25, 40], 2);
     L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
       maxZoom: 18,
@@ -73,6 +75,6 @@ redirect_from:
     accepted.forEach(([n, lat, lng]) =>
       L.circleMarker([lat, lng], {radius: 8, color: '#e66100', fillOpacity: 0.85})
         .addTo(map).bindPopup('<b>' + n + '</b><br>Accepted for presentation'));
-  })();
+  });
   </script>
 </section>
