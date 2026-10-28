@@ -34,5 +34,6 @@ redirect_from:
     <li class="up">University of Vienna (COMPTEXT 2025)</li>
     <li class="up">University of Iceland (NHESG’26)</li>
     <li class="up">University of Tasmania (AHES’26)</li>
+    <li class="up">Paññāsāstra University of Cambodia (SAERD’26)</li>
   </ul>
 </section>
