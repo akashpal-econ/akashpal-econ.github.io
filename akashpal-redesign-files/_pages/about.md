@@ -3,7 +3,7 @@ layout: home
 permalink: /
 title: "About me"
 excerpt: "PhD candidate in Economics at IIT Roorkee, working on health economics, household economics and microeconometrics."
-tagline: "How health shapes the decisions households make."
+tagline: "Who Bears the Cost of Economic Growth?"
 lede: "PhD candidate in Economics at IIT Roorkee, working on health economics, the economics of households, and microeconometrics."
 redirect_from:
   - /about/
